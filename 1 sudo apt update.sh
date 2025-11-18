@@ -1,7 +1,4 @@
-# lunixmint
-Integracao do git e github no lunix 22.2 zara
-artur correia  
-Senac tauape  1  sudo apt update
+ 1  sudo apt update
     2  sudo apt install git vim notepadqq 
     3  vim
     4  sudo init 0
